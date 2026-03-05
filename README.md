@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ## Tools and Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 height=40/>
-<img src="https://raw.githubusercontent.com/sthevon/sthevon/refs/heads/main/images/GCC.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 height=40/> <img src="https://raw.githubusercontent.com/sthevon/sthevon/refs/heads/main/images/GCC.svg" width=40 height=40/>
 
 <!--
 **sthevon/sthevon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
